@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad Ali
 - 👀 I’m interested in web and mobile app dvelopment
-- 🌱 I’m currently learning web and mobile app development
 - 💞️ I’m looking to collaborate with web developers
 - 📫 You can contact me via mail: m.aleydev@gmail.com
 
